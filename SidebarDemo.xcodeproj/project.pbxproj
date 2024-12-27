@@ -71,7 +71,6 @@
 		7683F5BF1BBB790B008F2A2B /* Icon180.png in Resources */ = {isa = PBXBuildFile; fileRef = 7683F5AB1BBB790B008F2A2B /* Icon180.png */; };
 		769806671BBB75D100C0AC1B /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 769806661BBB75D100C0AC1B /* Home.m */; };
 		7698066A1BBB75DD00C0AC1B /* CvAbout.m in Sources */ = {isa = PBXBuildFile; fileRef = 769806691BBB75DD00C0AC1B /* CvAbout.m */; };
-		7698066D1BBB75E700C0AC1B /* MapView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7698066C1BBB75E700C0AC1B /* MapView.m */; };
 		769806751BBB761D00C0AC1B /* Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 769806701BBB761D00C0AC1B /* Recipe.m */; };
 		769806761BBB761D00C0AC1B /* TVCMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 769806721BBB761D00C0AC1B /* TVCMenu.m */; };
 		769806771BBB761D00C0AC1B /* MenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 769806741BBB761D00C0AC1B /* MenuCell.m */; };
@@ -85,7 +84,6 @@
 		769806901BBB77DC00C0AC1B /* FrontNoah2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 769806891BBB77DC00C0AC1B /* FrontNoah2.jpg */; };
 		769806911BBB77DC00C0AC1B /* hamburgerAndbeer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7698068A1BBB77DC00C0AC1B /* hamburgerAndbeer.jpg */; };
 		769806921BBB77DC00C0AC1B /* Pankekes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7698068B1BBB77DC00C0AC1B /* Pankekes.jpg */; };
-		C82DD8C9002E54907A85A602 /* libPods-SidebarDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D3E2217B27A82AA2548BF67E /* libPods-SidebarDemo.a */; };
 		F4EECF12177C99F400778578 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4EECF11177C99F400778578 /* UIKit.framework */; };
 		F4EECF14177C99F400778578 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4EECF13177C99F400778578 /* Foundation.framework */; };
 		F4EECF16177C99F400778578 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4EECF15177C99F400778578 /* CoreGraphics.framework */; };
@@ -144,7 +142,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		30923555BF2F8A6015417AE7 /* Pods-SidebarDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SidebarDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SidebarDemo/Pods-SidebarDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		76270A141BBB453300F5044C /* icon114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon114.png; sourceTree = "<group>"; };
 		76270A151BBB453300F5044C /* icon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon120.png; sourceTree = "<group>"; };
 		76270A161BBB453300F5044C /* icon152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon152.png; sourceTree = "<group>"; };
@@ -211,8 +208,6 @@
 		769806661BBB75D100C0AC1B /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
 		769806681BBB75DD00C0AC1B /* CvAbout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CvAbout.h; sourceTree = "<group>"; };
 		769806691BBB75DD00C0AC1B /* CvAbout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CvAbout.m; sourceTree = "<group>"; };
-		7698066B1BBB75E700C0AC1B /* MapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapView.h; sourceTree = "<group>"; };
-		7698066C1BBB75E700C0AC1B /* MapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapView.m; sourceTree = "<group>"; };
 		7698066F1BBB761D00C0AC1B /* Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recipe.h; sourceTree = "<group>"; };
 		769806701BBB761D00C0AC1B /* Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recipe.m; sourceTree = "<group>"; };
 		769806711BBB761D00C0AC1B /* TVCMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVCMenu.h; sourceTree = "<group>"; };
@@ -232,8 +227,6 @@
 		769806891BBB77DC00C0AC1B /* FrontNoah2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FrontNoah2.jpg; sourceTree = "<group>"; };
 		7698068A1BBB77DC00C0AC1B /* hamburgerAndbeer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hamburgerAndbeer.jpg; sourceTree = "<group>"; };
 		7698068B1BBB77DC00C0AC1B /* Pankekes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pankekes.jpg; sourceTree = "<group>"; };
-		D3E2217B27A82AA2548BF67E /* libPods-SidebarDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SidebarDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F2B637189E3B27810F3F989A /* Pods-SidebarDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SidebarDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-SidebarDemo/Pods-SidebarDemo.release.xcconfig"; sourceTree = "<group>"; };
 		F4EECF0E177C99F400778578 /* SidebarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SidebarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4EECF11177C99F400778578 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F4EECF13177C99F400778578 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -320,7 +313,6 @@
 				F4EECF12177C99F400778578 /* UIKit.framework in Frameworks */,
 				F4EECF14177C99F400778578 /* Foundation.framework in Frameworks */,
 				F4EECF16177C99F400778578 /* CoreGraphics.framework in Frameworks */,
-				C82DD8C9002E54907A85A602 /* libPods-SidebarDemo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,8 +440,6 @@
 		769806841BBB766800C0AC1B /* MapView */ = {
 			isa = PBXGroup;
 			children = (
-				7698066B1BBB75E700C0AC1B /* MapView.h */,
-				7698066C1BBB75E700C0AC1B /* MapView.m */,
 			);
 			name = MapView;
 			sourceTree = "<group>";
@@ -487,22 +477,12 @@
 			name = Home;
 			sourceTree = "<group>";
 		};
-		D7CB7CF50A6A8B37D6CD96C4 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				30923555BF2F8A6015417AE7 /* Pods-SidebarDemo.debug.xcconfig */,
-				F2B637189E3B27810F3F989A /* Pods-SidebarDemo.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		F4EECF05177C99F400778578 = {
 			isa = PBXGroup;
 			children = (
 				F4EECF17177C99F400778578 /* SidebarDemo */,
 				F4EECF10177C99F400778578 /* Frameworks */,
 				F4EECF0F177C99F400778578 /* Products */,
-				D7CB7CF50A6A8B37D6CD96C4 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -524,7 +504,6 @@
 				F4EECF11177C99F400778578 /* UIKit.framework */,
 				F4EECF13177C99F400778578 /* Foundation.framework */,
 				F4EECF15177C99F400778578 /* CoreGraphics.framework */,
-				D3E2217B27A82AA2548BF67E /* libPods-SidebarDemo.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -710,11 +689,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F4EECF31177C99F400778578 /* Build configuration list for PBXNativeTarget "SidebarDemo" */;
 			buildPhases = (
-				7E91899FC239312C3FD9C1D7 /* Check Pods Manifest.lock */,
 				F4EECF0A177C99F400778578 /* Sources */,
 				F4EECF0B177C99F400778578 /* Frameworks */,
 				F4EECF0C177C99F400778578 /* Resources */,
-				6D05D809EB80172C3905C421 /* Copy Pods Resources */,
+				D4BFD014F310190461733D23 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -735,7 +713,7 @@
 				ORGANIZATIONNAME = Appcoda;
 				TargetAttributes = {
 					F4EECF0D177C99F400778578 = {
-						DevelopmentTeam = T2S85GJ7JY;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
 								enabled = 0;
@@ -752,6 +730,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = F4EECF05177C99F400778578;
@@ -877,34 +856,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		6D05D809EB80172C3905C421 /* Copy Pods Resources */ = {
+		D4BFD014F310190461733D23 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SidebarDemo/Pods-SidebarDemo-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.xcframework/ios-arm64/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.xcframework/ios-arm64_x86_64-simulator/GoogleMaps.framework/Resources/GoogleMaps.bundle",
 			);
-			name = "Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SidebarDemo/Pods-SidebarDemo-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7E91899FC239312C3FD9C1D7 /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SidebarDemo/Pods-SidebarDemo-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -926,7 +894,6 @@
 				7698067F1BBB764600C0AC1B /* TVCMenuDetalhe.m in Sources */,
 				769806771BBB761D00C0AC1B /* MenuCell.m in Sources */,
 				769806801BBB764600C0AC1B /* MenuCellDetalhe.m in Sources */,
-				7698066D1BBB75E700C0AC1B /* MapView.m in Sources */,
 				F59A65CF1AFE83A900AC0699 /* Details.m in Sources */,
 				7698066A1BBB75DD00C0AC1B /* CvAbout.m in Sources */,
 				F4EECF2E177C99F400778578 /* MainViewController.m in Sources */,
@@ -1022,12 +989,13 @@
 		};
 		F4EECF32177C99F400778578 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 30923555BF2F8A6015417AE7 /* Pods-SidebarDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = BrandAsset;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1036,23 +1004,25 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SidebarDemo/SidebarDemo-Prefix.pch";
 				INFOPLIST_FILE = "SidebarDemo/SidebarDemo-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.promaster.NoahAndCo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
 		F4EECF33177C99F400778578 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F2B637189E3B27810F3F989A /* Pods-SidebarDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = BrandAsset;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1061,10 +1031,11 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SidebarDemo/SidebarDemo-Prefix.pch";
 				INFOPLIST_FILE = "SidebarDemo/SidebarDemo-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.promaster.NoahAndCo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

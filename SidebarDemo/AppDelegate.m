@@ -7,15 +7,14 @@
 //
 
 #import "AppDelegate.h"
-#import "GoogleMaps.h"
+
 
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
-    [GMSServices provideAPIKey:@"AIzaSyAMQ4eBxnNhNGYMIPc68wb68Ma8rcudC7E"];
+    
     
     // Change the background color of navigation bar
     [[UINavigationBar appearance] setBarTintColor:[UIColor whiteColor]];
