@@ -124,11 +124,11 @@ http://www.promastersolution.com.br/x7890_IOS/central/visitas.php
 
 ---
 
-## 👨‍💻 **Developers**
+## 🧑‍💻 **Developers**
 
-- **Lead Developer:** Fabricio Aguiar de Padua  
-- **Contributor:** Simon
-- **Linkedin:** www.linkedin.com/fabricio-padua
+- **Lead Developer:** Fabricio Aguiar de Padua
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **contact:** fabricio_0505_@hotmail.com
 
 ---
 
